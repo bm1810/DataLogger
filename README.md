@@ -5,7 +5,7 @@ Development files for DataLogger project
 Development scripts can be accessed in the scripts folder. These should be uploaded to the Arduino to which the datalogger shield is connected
 
 -- EAGLE --
-The Eagle folder holds the Eagle cad files and drawing files to route the boards on an S63 routing machine.
+The Eagle folder holds the Eagle cad files and drawing files to route the boards on an S63 milling machine.
 
 -- BOXCAD --
 

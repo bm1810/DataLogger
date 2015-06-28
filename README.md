@@ -9,4 +9,4 @@ The Eagle folder holds the Eagle cad files and drawing files to route the boards
 
 -- BOXCAD --
 
-This folder holds the 3D printer STL files and Soldiworks CAD files from creation of the box.
+This folder holds the 3D printer STL files and Solidworks CAD files from creation of the box.
